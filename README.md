@@ -49,7 +49,7 @@ Quick links ;
        $ node app
 ```
 
-## Schema examples
+## Schema example
 ###Single
 ```javascript
   User = new Schema({
